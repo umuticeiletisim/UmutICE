@@ -6,4 +6,6 @@
 
 [![Discord Badge](https://img.shields.io/badge/Discord%20Profilim-7289d9.svg?&amp;style=for-the-badge&amp;logo=discord&amp;logoColor=white)](https://discord.com/users/844955462586859560)
 
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/844955462586859560)](https://discord.com/users/844955462586859560)
+
 </p>
