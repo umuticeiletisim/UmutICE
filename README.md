@@ -16,7 +16,7 @@
   <h3>🍠Github stats:<h3>
  <p align="left">
 <a href="https://github/umuticeiletisim">
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tuncvrjs&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>  </a>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=umuticeiletisim&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>  </a>
   </p>
   </a>
   <a href="https://www.umefek.tk/">Botumun sitesi(birazcık kötü evet, html bilmiyorum lütfen dalga geçmeyin)</a>
